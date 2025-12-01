@@ -7,8 +7,6 @@
 <h1 align="center">Hey there 👋 I'm Juanpa</h1>
 <h2 align="center">🐛 Coding & creating bugs since I was 8</h2>
 
----
-
 ## 🧠 About me
 - 19 · from Seville 🇪🇸
 - Full-stack dev + systems programmer
@@ -16,8 +14,6 @@
 - I'm currently making my own language [**Nebula**](https://github.com/lokray06/nebc), go check it out!
 
 When I'm not coding I’m playing flamenco guitar 🎸 or breaking and fixing Linux systems 🐧
-
----
 
 ## 🛠️ Tools I vibe with
 <div align="center">
@@ -32,8 +28,6 @@ When I'm not coding I’m playing flamenco guitar 🎸 or breaking and fixing Li
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="38" alt="unity logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="38" alt="blender logo"/>
 </div>
-
----
 
 ## 🔥 Stats
 <div align="center">
