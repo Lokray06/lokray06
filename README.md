@@ -14,31 +14,20 @@
 
 </div>
 
-
 ## 🧠 About me
-- 19 · from Seville 🇪🇸
-- Full-stack dev + systems programmer
-- Learning: **compilers, parsers, VM stuff, and languages that hate me**
-- I'm currently making my own language [**Nebula**](https://github.com/lokray06/nebc), go check it out!
-- When I'm not coding I’m playing flamenco guitar 🎸 or breaking and fixing Linux systems 🐧
+* 🇪🇸 19yo from Seville/ES
+* 💻 Full-stack dev and systems programmer
+* 📘 Studying: modern frameworks, DB engines, software architecture, TypeScript, networking, and high-scale backend systems
+* 🔥 Self-taught: compilers, parsers, graphics programming, game engines development, low-level dev
+* ☄️ Currently making my own language [**Nebula**](https://github.com/lokray06/nebc), go check it out!
+* 🎸 When I'm not coding I’m playing flamenco guitar or breaking and fixing Linux systems 🐧
 
 ## 🛠️ Tools I vibe with
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="38" alt="docker logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="38" alt="bash logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="linux logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="java logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="c logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="cpp logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="38" alt="spring logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="c# logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="38" alt="docker logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="38" alt="unity logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="38" alt="blender logo"/>
-</div>
-
-## 🔥 Stats
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokray06&theme=gruvbox&custom_title=Contributions&area=true&hide_border=true" height="140" alt="contribution graph"/>
-  <br />
-  <img src="https://streak-stats.demolab.com?user=lokray06&locale=en&mode=daily&theme=dark&border_radius=5" height="210" alt="streak graph"/>
 </div>
